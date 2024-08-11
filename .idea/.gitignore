@@ -1,0 +1,13 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+CMakeLists.txt
+.clang-format
+.idea
+# 忽略所有以 cmake-build 开头的文件夹
+cmake-build*/
