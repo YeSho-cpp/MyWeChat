@@ -14,6 +14,7 @@
 #include <QRegularExpression>
 #include <iostream>
 #include <QByteArray>
+#include <QtNetwork/QNetworkReply>
 #include "QStyle"
 
 
